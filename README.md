@@ -26,9 +26,7 @@ Keyphrases_tf-idf.xlsx: Excel file containing the extracted keyphrases using the
 
 Keyphrases_yake.xlsx: Excel file containing the extracted keyphrases using the YAKE approach.
 
-locations_cleaned.xlsx: Excel file containing cleaned location data, likely used in conjunction with the named entity recognition (NER) process.
-
-locations_matching.ipynb: Jupyter notebook for matching locations extracted from text data with existing data or ontologies.
+locations_matching.ipynb: Jupyter notebook for matching locations extracted from text data with existing SWEET Ontology.
 
 locations.xlsx: Excel file containing location data extracted from the text, possibly through the NER process.
 
@@ -36,13 +34,13 @@ NER.ipynb: Jupyter notebook for named entity recognition (NER) on the text data 
 
 ontology enrichment score.ipynb: Jupyter notebook for scoring ontology enrichment based on keyphrases extracted.
 
-owlapi.xrdf: RDF file likely containing ontology data or definitions.
+owlapi.xrdf: RDF file for SWEET containing ontology data or definitions.
 
-sweet_test.owl: OWL file representing the SWEET ontology or related ontology.
+sweet_test.owl: OWL file representing the SWEET ontology ontology.
 
 SweetAllKatsadaki_final.rdf: RDF file containing the enriched version of the SWEET ontology.
 
-wordclouds_20.ipynb: Jupyter notebook for generating word clouds based on keyphrases or text data.
+wordclouds_20.ipynb: Jupyter notebook for generating word clouds based on keyphrases.
 
 yake.ipynb: Jupyter notebook for keyphrase extraction using the YAKE approach.
 
