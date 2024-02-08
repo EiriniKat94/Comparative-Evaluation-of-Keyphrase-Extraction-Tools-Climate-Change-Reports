@@ -42,6 +42,8 @@ SweetAllKatsadaki_final.rdf: RDF file containing the enriched version of the SWE
 
 wordclouds_20.ipynb: Jupyter notebook for generating word clouds based on keyphrases.
 
+The ontology was enriched and presented with the help of Protégé tool.
+
 yake.ipynb: Jupyter notebook for keyphrase extraction using the YAKE approach.
 
 These files collectively constitute the methodology and implementation details for extracting keyphrases and enriching ontologies from climate change scientific reports.
